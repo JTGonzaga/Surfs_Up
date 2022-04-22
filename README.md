@@ -25,3 +25,10 @@ I started with analyzing the yearly data from data supplied by W. Avy. Knowing w
   * The minimum temperature is less than 10 degrees cooler in December, but the maximum stays in the mid 80's for both
   * Although the two months are in opposite seasons, the weather stays relatively consistent
 ## Summary
+  Since temperature and precipitation seem consistent throughout the year, it is safe to say that weather will not prove to be an issue for Surf n' Shake. I've decided to analyze this further and look into the precipitation for June and December.
+  
+ ![june_precip](https://github.com/JTGonzaga/Surfs_Up/blob/main/Challange%20Images/Jun_precip.png)
+ ![dec_precip](https://github.com/JTGonzaga/Surfs_Up/blob/main/Challange%20Images/Dec_precip.png)
+ 
+ Looking at the differences in precipitaiton, we can see that the average precipitation for December is higher at 21% vs around 14% in June. This is to be expected because of the change in season, but due to the consistency of temperature I assume that it does not have a huge effect on climate. 
+  
